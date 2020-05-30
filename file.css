@@ -1,0 +1,28 @@
+.bar{
+    background-image: linear-gradient(to top right,#243949,#517FA4);
+    text-align:center;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+.p1{
+    margin: 10px;
+    
+    text-align: justify-all;
+    background-image: linear-gradient(to top right,whitesmoke,white);
+    padding: 7px;
+}
+.list{
+    list-style: none;
+}
+button{
+    align-content: center;
+}
+.bg{
+    
+ 
+    background-image: linear-gradient(to bottom right,lightskyblue,white);
+   
+    
+}
